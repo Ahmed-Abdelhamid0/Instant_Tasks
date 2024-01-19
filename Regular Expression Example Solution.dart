@@ -1,8 +1,8 @@
 void main() {
   /*********
     Exercise :-
-Create a Function has 3 inputs (email, url, and phone number)
-if one of them is not valid return message "the $input is not valid" or return 'your data is correct'
+    Create a Function has 3 inputs (email, url, and phone number)
+    if one of them is not valid return message "the $input is not valid" or return 'your data is correct'
 
     Algorithm:-
       1-create function of type string with 3 parameters
