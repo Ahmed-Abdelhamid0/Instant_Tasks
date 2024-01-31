@@ -3,13 +3,16 @@ void main() {
       Exercise :-
 
       Details: collect all cards data in one variable
+      
       card 1:
       title: 'services'
-      details: 'fake text for services describe this section' - icon: Icon(icon: Icons.services)
-      links: 'link1'
-      'link2'
-   **
-      'link3'
+      details: 'fake text for services describe this section'
+      - icon: Icon(icon: Icons.services)
+      links:
+      - 'link1'
+      - 'link2'
+      - 'link3'
+      
       card 2:
       title: 'about'
       details: 'fake text for about describe this section'
@@ -17,16 +20,16 @@ void main() {
       links:
       - 'link1'
       - 'link2'
-      -
-      'link3'
+      -'link3'
+      
       card 3:
       title: 'feeds'
-      details: 'fake text for feeds describe this section' -icon: Icon(icon: Icons.feeds)
-      -
+      details: 'fake text for feeds describe this section'
+      -icon: Icon(icon: Icons.feeds)
       links:
-      'link1'
-      'link2'
-      'link3'
+      - 'link1'
+      - 'link2'
+      - 'link3'
 
       Algorithm:-
 
